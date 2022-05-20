@@ -9,6 +9,11 @@
             "include": {
                 "file" : "./kalmany-changelog-2.2.0.json"
             }
+        },
+        {
+            "include": {
+                "file" : "./kalmany-changelog-2.3.0.json"
+            }
         }
     ]
 }
