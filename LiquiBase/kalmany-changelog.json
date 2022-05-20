@@ -1,0 +1,14 @@
+{
+    "databaseChangeLog":[
+        {
+            "include": {
+                "file" : "./kalmany-changelog-2.1.0.json"
+            }
+        },
+        {
+            "include": {
+                "file" : "./kalmany-changelog-2.2.0.json"
+            }
+        }
+    ]
+}

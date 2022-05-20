@@ -1,0 +1,21 @@
+{
+    "databaseChangeLog":[
+        {
+            "changeSet":{
+                "id":"02020000",
+                "author":"Stanley",
+                "labels": "v2.2.0",
+                "changes":[
+                    {
+                    "tagDatabase":{
+                        "tag":"v2.2.0"
+                    }
+                    }
+                ]
+            },
+            "includeAll":{
+                "path" : "2.2.0"
+            }
+        }
+    ]
+}
